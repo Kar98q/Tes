@@ -1,0 +1,9 @@
+streamlit==1.32.2
+python-whois==0.9.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+soupsieve==2.5
+exifread==2.3.2
+pdfminer.six==20221105
+pillow==10.1.0
+opencv-python==4.9.0.80
